@@ -1,0 +1,123 @@
+repo_name: aokegbile/javascript
+report_id: 03a6417935b99f26cb2e69d97201417a
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T17:53:52+00:00'
+requested_by: justjake
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/aokegbile/javascript
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 0.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2015-11-06 21:09:34.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/linters/.eslintrc
+  detection_source: linters/.eslintrc
+  last_updated_by: Jake Teton-Landis
+  last_updated_on: 2015-07-30 22:08:47.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aokegbile/javascript
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jake Teton-Landis
+  last_updated_on: 2015-05-22 17:38:21.000000000 Z
+- name: Tape
+  description: 'i''m the package manager for javascript. problems? try @npm_support
+    and #npm on freenode.'
+  website_url: https://www.npmjs.com/package/tape
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jake Teton-Landis
+  last_updated_on: 2015-05-22 17:38:21.000000000 Z
+- name: babel-tape-runner
+  description: Babel + Tape for running your ES Next tests
+  package_url: https://www.npmjs.com/babel-tape-runner
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16894/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2015-11-06 21:09:34.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 3.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2015-11-07 00:32:28.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/aokegbile/javascript/blob/master/packages/eslint-config-airbnb/package.json
+  detection_source: packages/eslint-config-airbnb/package.json
+  last_updated_by: Jordan Harband
+  last_updated_on: 2015-11-06 21:09:34.000000000 Z
